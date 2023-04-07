@@ -9,4 +9,4 @@ Feature: Test Login Functionality
     Examples: 
       | username | password |
       | David    |    12345 |
- 	    | Jenny    |    12345 |
+ 	    | Jenny    |    12346 |
